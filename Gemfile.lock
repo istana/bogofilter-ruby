@@ -2,7 +2,6 @@ PATH
   remote: .
   specs:
     bogofilter (0.1.0)
-      pry
       terrapin (~> 0.6)
 
 GEM
@@ -37,6 +36,7 @@ PLATFORMS
 
 DEPENDENCIES
   bogofilter!
+  pry
   rake (~> 13.0)
   rspec (~> 3.0)
 

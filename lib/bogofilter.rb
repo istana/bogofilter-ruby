@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require "pry"
 require "open3"
 require "terrapin"
 require_relative "bogofilter/version"
