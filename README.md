@@ -8,6 +8,10 @@ The supported input format is the same as in bogofilter - text, EML, mbox.
 Add this line to your application's Gemfile:
 
 ```ruby
+gem 'bogofilter'
+
+or
+
 gem 'bogofilter', github: 'istana/bogofilter-ruby'
 ```
 
@@ -52,4 +56,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the Bogofilter project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/istana/bogofilter/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the Bogofilter project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/istana/bogofilter-ruby/blob/master/CODE_OF_CONDUCT.md).

@@ -33,7 +33,6 @@ The supported input format is the same as in bogofilter - text, EML, mbox."
   spec.require_paths = ["lib"]
 
   # Uncomment to register a new dependency of your gem
-  spec.add_dependency "terrapin", "~> 0.6"
   spec.add_development_dependency "pry"
   spec.add_development_dependency "rake", "~> 13.0"
   spec.add_development_dependency "rspec", "~> 3.0"
