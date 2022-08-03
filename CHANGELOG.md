@@ -1,4 +1,6 @@
-## [0.1.0] - Unreleased
+## [0.2.0] - Unreleased
+
+## [0.1.0] - 2022-08-03
 
 - #add_spam, #remove_spam
 - #add_ham, #remove_ham
