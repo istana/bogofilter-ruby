@@ -9,13 +9,13 @@ Gem::Specification.new do |spec|
   spec.email = ["^_^@myrtana.sk"]
 
   spec.summary = "Ruby library for spam detection using bogofilter executable"
-  spec.description = "A simple library written in Ruby language to detect spam built around bogofilter executable.
+  spec.description = "A simple library built around bogofilter executable written in Ruby language to detect spam.
 The supported input format is the same as in bogofilter - text, EML, mbox."
   spec.homepage = "https://github.com/istana/bogofilter-ruby"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.1.0"
 
-  spec.metadata["allowed_push_host"] = "https://github.com"
+  spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/istana/bogofilter-ruby"
